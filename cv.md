@@ -23,6 +23,12 @@ But recently decided to change my life and get mew profession, want to become a 
 * HTML and CSS - middle level (able to make a website, familiar working with tegs, styles, etc.)
 * Javascript, Python, Java development languages - elementary level (familiar with syntax, method, functions, loops, conditions and a little bit with classes and OOP in general)
 
+### Soft skills:
+* Team player
+* Always open to new challenges / projects
+* Problem solving
+* Able to work under pressure / multitasking
+
 #### Example of code:
 ```
  function palidrom(str) {
