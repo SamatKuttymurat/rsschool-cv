@@ -51,5 +51,9 @@ No any projects yet. This CV can be considered as a first project)
 * Russian - fluent
 * English - upper-intermediate
 
+### Fields of interest:
+* Web Development
+* Mobile Development
 
+---
 
