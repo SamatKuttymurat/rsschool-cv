@@ -7,12 +7,12 @@
 ### About me:
 Was born in 1985 year in Aktobe, Kazakhstan. Never learned programming before 2022. 
 Currently I am working in Oil and Gas industry as a Safety Prosessional. 
-But recently decided to change my life and get mew profession, want to become a programmer and as a start of my new adventure I have chosen Frontend development.
+But recently decided to change my life and get new profession, want to become a programmer and as a start of my new adventure I have chosen Frontend development.
 
 ### Education:
 * Kazakh-Russian International University - Master' Degree (Life Safety and Environmental Protection)
   + 2014 - 2016
-* Military Institute of Border Servise of Republic of Kazakhstan - Bachelor Degree (Management of military units)
+* Military Institute of Border Service of Republic of Kazakhstan - Bachelor Degree (Management of military units)
   + 2004 - 2008
 
 ### Professional Qualifications:
@@ -44,7 +44,7 @@ console.log(palidrom("Abba")) // true
 ```
 
 ### Projects:
-No any projects yet. This CV can be considered as a first project)
+No any projects yet. This CV can be considered as a first project
 
 ### Languages:
 * Kazakh - native
